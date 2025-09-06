@@ -29,7 +29,7 @@ Classes/
 ├── services/       # 服务层，处理业务逻辑
 └── utils/          # 工具类，提供通用功能
 ```
-
+(最初基于cocos的test1模板开始开发）
 ## 编译和运行
 
 ### Windows平台
@@ -142,3 +142,4 @@ cd proj.win32
 ## 联系方式
 
 如有问题或建议，请通过GitHub Issues反馈。
+
